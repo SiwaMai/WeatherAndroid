@@ -1,1 +1,4 @@
-# WeatherAndroid
+# WeatherAndroid ของ SiwaMai
+สามารถนำไปใช้งานในเชิงวิชาการ แต่ไม่สามารถใช้งานในเชิงพาณิชย์ได้
+ขอบคุณครับ 
+#SiwaMai
